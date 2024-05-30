@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **AI/ML-aided Resource Allocation**
 
-- 👨‍💻 All of my papers are available at [https://scholar.google.com/citations?user=s4pZueEAAAAJ&hl=en](https://scholar.google.com/citations?user=s4pZueEAAAAJ&hl=en)
+- 👨‍💻 All of my papers are available [here](https://scholar.google.com/citations?user=s4pZueEAAAAJ&hl=en)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mshokrnezhad/](https://www.linkedin.com/in/mshokrnezhad/)
+- 📝 I regularly write articles [here](https://www.linkedin.com/in/mshokrnezhad/)
 
 - 💬 Ask me about **Mathematics, Algorithms, AI/ML, Python, JavaScript**
 
