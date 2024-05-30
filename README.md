@@ -26,7 +26,9 @@
 
 <br></br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mshokrnezhad&show_icons=true&locale=en&layout=compact" alt="mshokrnezhad" />
+<h3 align="left">Statistics:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mshokrnezhad&show_icons=true&locale=en&layout=compact" alt="mshokrnezhad"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mshokrnezhad&show_icons=true&locale=en" alt="mshokrnezhad" />
 
