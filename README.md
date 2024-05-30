@@ -1,5 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://github.com/mshokrnezhad?tab=repositories)
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40"/>, I'm Masoud Shokrnezhad</h1>
 <h3 align="center"> Researcher, exploring solution spaces</h3>
 <img align="right" src="coder.gif" />
