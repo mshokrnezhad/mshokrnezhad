@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40"/>, I'm Masoud Shokrnezhad</h1>
 <h3 align="center"> Researcher, exploring solution spaces</h3>
-<img align="right" width="310" src="coder.gif" />
+<img align="right" width="300" src="coder.gif" />
 
 - 🔭 I’m currently working on **AI/ML-aided Resource Allocation**
 
