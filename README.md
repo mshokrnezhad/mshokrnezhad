@@ -2,6 +2,7 @@
 <h3 align="center"> Researcher, exploring solution spaces</h3>
 <img align="right" width="300" src="coder.gif" />
 
+
 - 🔭 I’m currently working on **AI/ML-aided Resource Allocation**
 
 - 👨‍💻 All of my papers are available [here](https://scholar.google.com/citations?user=s4pZueEAAAAJ&hl=en)
@@ -34,3 +35,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mshokrnezhad&show_icons=true&locale=en" alt="mshokrnezhad" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshokrnezhad&" alt="mshokrnezhad" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshokrnezhad&label=Profile%20views&color=0e75b6&style=flat" alt="mshokrnezhad" /> </p>
