@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" alt="Waving hand"/>, I’m Masoud Shokrnezhad
+# Hi, I’m Masoud Shokrnezhad
 
 <p align="center"><img width="300" src="coder.gif" alt="Coding" /></p>
 
@@ -94,6 +94,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshokrnezhad&show_icons=true&locale=en)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mshokrnezhad&" alt="GitHub streak"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mshokrnezhad&" alt="GitHub streak"/></p>
 
 ![](https://komarev.com/ghpvc/?username=mshokrnezhad&label=Profile%20views&color=0e75b6&style=flat)
