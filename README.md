@@ -31,10 +31,13 @@
 <a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.vim.org/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visualstudio" width="40" height="40"/></a>
+<a href="https://cursor.com" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="cursor" width="40" height="40"/></a>
 <a href="https://jupyter.org/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/6c3d6c8b4742ded0d0643aef2c6f7008fdbeb5a7/assets/latex.svg" alt="latex" width="40" height="40"/></a>
-<a href="https://www.overleaf.com/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/1200px-Overleaf_Logo.svg.png?20230114191046" alt="overleaf" width="40" height="40"/></a>
+<a href="https://www.overleaf.com/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Overleaf_Logo.svg" alt="overleaf" width="40" height="40"/></a>
+<a href="https://www.notion.com/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/></a>
 <a href="https://git-scm.com/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="40" height="40"/></a>
+<a href="https://github.com/features/actions" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/></a>
 <a href="https://about.gitlab.com/" rel="noreferrer" target="_blank"><img align="left" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="gitlab" width="40" height="40"/></a>
 <a href="https://www.gurobi.com/" rel="noreferrer" target="_blank"><img align="left" src="gurobi.png" alt="gurobi" width="40" height="40"/></a>
 <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio" rel="noreferrer" target="_blank"><img align="left" src="https://ampl.com/wp-content/uploads/CPLEX-logo.svg" alt="cplex" width="40" height="40"/></a>
@@ -43,6 +46,7 @@
 <a href="https://numpy.org/" rel="noreferrer" target="_blank"><img align="left" src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://matplotlib.org/" rel="noreferrer" target="_blank"><img align="left" src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
 <a href="https://pytorch.org/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.gymlibrary.dev/" rel="noreferrer" target="_blank"><img align="left" src="https://www.svgrepo.com/show/306504/openaigym.svg" alt="gym" width="40" height="40"/></a>
@@ -57,7 +61,7 @@
 <a href="https://graphql.org/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
 <a href="https://expressjs.com/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/></a>
 <a href="https://www.docker.com/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://kubernetes.io/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://ai.pydantic.dev" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/pydanticai-color.png" alt="PydanticAI" width="40" height="40"/></a>
 <a href="https://pydantic.dev" rel="noreferrer" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic" width="40" height="40"/></a>
@@ -66,12 +70,12 @@
 <a href="https://aistudio.google.com/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_ai_studio_logo.png" alt="Google AI Studio" width="40" height="40"/></a>
 <a href="https://gemini.google.com/app" rel="noreferrer" target="_blank"><img align="left" src="https://helios-i.mashable.com/imagery/articles/00zEnhbB6mXQs8x5yXw38bT/images-3.fit_lim.size_376x.webp" alt="Gemeni" width="40" height="40"/></a>
 <a href="https://colab.research.google.com" rel="noreferrer" target="_blank"><img align="left" src="https://embed.zenn.studio/api/optimize-og-image/26db74eefbf565c20234/https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png" alt="Colab" width="40" height="40"/></a>
-<a href="https://platform.openai.com/docs/models" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1024px-ChatGPT-Logo.svg.png" alt="GPT" width="40" height="40"/></a>
+<a href="https://platform.openai.com/docs/models" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" alt="GPT" width="40" height="40"/></a>
 <a href="https://x.ai" rel="noreferrer" target="_blank"><img align="left" src="https://images.prismic.io/sacra/aHaBO0MqNJQqH7id_xailogo.png" alt="xAI" width="40" height="40"/></a>
 <a href="https://www.google.com/search?client=safari&rls=en&q=Anthropic&ie=UTF-8&oe=UTF-8" rel="noreferrer" target="_blank"><img align="left" src="https://img.icons8.com/fluent/512/claude-ai.png" alt="Claude" width="40" height="40"/></a>
 <a href="https://mistral.ai" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/mistral-color.png" alt="Mistral" width="40" height="40"/></a>
 <a href="https://www.llama.com" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/metaai-color.png" alt="LLaMA" width="40" height="40"/></a>
-<a href="https://chat.qwen.ai" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Qwen_logo.svg/1200px-Qwen_logo.svg.png" alt="QWEN" width="40" height="40"/></a>
+<a href="https://chat.qwen.ai" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg" alt="QWEN" width="40" height="40"/></a>
 <a href="https://huggingface.co" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/huggingface-color.png" alt="Hugging Face" width="40" height="40"/></a>
 <a href="https://ollama.com" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/light/ollama.png" alt="Ollama" width="40" height="40"/></a>
 <a href="https://nova.amazon.com" rel="noreferrer" target="_blank"><img align="left" src="https://m.media-amazon.com/images/I/31mpUpLsu9L._SL512_FMpng_.png" alt="Nova" width="40" height="40"/></a>
@@ -90,9 +94,9 @@
 
 ### Statistics
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=mshokrnezhad&show_icons=true&locale=en&layout=compact)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs?username=mshokrnezhad&show_icons=true&locale=en&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshokrnezhad&show_icons=true&locale=en)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=mshokrnezhad&show_icons=true&locale=en)
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mshokrnezhad&" alt="GitHub streak"/></p>
 
