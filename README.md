@@ -28,14 +28,22 @@
 
 <div align="left">
 <a href="https://www.linux.org/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://ubuntu.com/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/windows" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/></a>
+<a href="https://www.apple.com/macos/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.vim.org/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visualstudio" width="40" height="40"/></a>
 <a href="https://cursor.com" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="cursor" width="40" height="40"/></a>
-<a href="https://jupyter.org/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://github.com/features/copilot" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/github-copilot.svg" alt="github-copilot" width="40" height="40"/></a>
+<a href="https://jupyter.org/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/6c3d6c8b4742ded0d0643aef2c6f7008fdbeb5a7/assets/latex.svg" alt="latex" width="40" height="40"/></a>
-<a href="https://www.overleaf.com/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Overleaf_Logo.svg" alt="overleaf" width="40" height="40"/></a>
+<a href="https://www.overleaf.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/overleaf.svg" alt="overleaf" width="40" height="40"/></a>
 <a href="https://www.notion.com/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/></a>
+<a href="https://www.zotero.org/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/zotero.svg" alt="zotero" width="40" height="40"/></a>
+<a href="https://www.ieee.org/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/ieee.svg" alt="ieee" width="40" height="40"/></a>
+<a href="https://orcid.org/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/orcid.svg" alt="orcid" width="40" height="40"/></a>
+<a href="https://scholar.google.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/google-scholar.svg" alt="google-scholar" width="40" height="40"/></a>
 <a href="https://git-scm.com/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="40" height="40"/></a>
 <a href="https://github.com/features/actions" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/></a>
 <a href="https://about.gitlab.com/" rel="noreferrer" target="_blank"><img align="left" src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="gitlab" width="40" height="40"/></a>
@@ -50,7 +58,7 @@
 <a href="https://pytorch.org/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.gymlibrary.dev/" rel="noreferrer" target="_blank"><img align="left" src="https://www.svgrepo.com/show/306504/openaigym.svg" alt="gym" width="40" height="40"/></a>
-<a href="https://www.ibm.com/quantum/qiskit" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/></a>
+<a href="https://www.ibm.com/quantum/qiskit" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/qiskit.png" alt="qiskit" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.npmjs.com/" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/about" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
@@ -63,22 +71,37 @@
 <a href="https://www.docker.com/" rel="noreferrer" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/?nc2=h_lg" rel="noreferrer" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://vercel.com/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/confluence" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/></a>
+<a href="https://tailscale.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/tailscale.svg" alt="tailscale" width="40" height="40"/></a>
+<a href="https://rustdesk.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/rustdesk.svg" alt="rustdesk" width="40" height="40"/></a>
 <a href="https://ai.pydantic.dev" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/pydanticai-color.png" alt="PydanticAI" width="40" height="40"/></a>
 <a href="https://pydantic.dev" rel="noreferrer" target="_blank"><img align="left" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic" width="40" height="40"/></a>
 <a href="https://www.langchain.com" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/langchain-color.png" alt="LangChain" width="40" height="40"/></a>
 <a href="https://neo4j.com" rel="noreferrer" target="_blank"><img align="left" src="https://go.neo4j.com/rs/710-RRC-335/images/neo4j_logo_globe.png" alt="neo4j" width="40" height="40"/></a>
-<a href="https://aistudio.google.com/" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_ai_studio_logo.png" alt="Google AI Studio" width="40" height="40"/></a>
-<a href="https://gemini.google.com/app" rel="noreferrer" target="_blank"><img align="left" src="https://helios-i.mashable.com/imagery/articles/00zEnhbB6mXQs8x5yXw38bT/images-3.fit_lim.size_376x.webp" alt="Gemeni" width="40" height="40"/></a>
-<a href="https://colab.research.google.com" rel="noreferrer" target="_blank"><img align="left" src="https://embed.zenn.studio/api/optimize-og-image/26db74eefbf565c20234/https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png" alt="Colab" width="40" height="40"/></a>
-<a href="https://platform.openai.com/docs/models" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" alt="GPT" width="40" height="40"/></a>
-<a href="https://x.ai" rel="noreferrer" target="_blank"><img align="left" src="https://images.prismic.io/sacra/aHaBO0MqNJQqH7id_xailogo.png" alt="xAI" width="40" height="40"/></a>
-<a href="https://www.google.com/search?client=safari&rls=en&q=Anthropic&ie=UTF-8&oe=UTF-8" rel="noreferrer" target="_blank"><img align="left" src="https://img.icons8.com/fluent/512/claude-ai.png" alt="Claude" width="40" height="40"/></a>
+<a href="https://aistudio.google.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/google-ai-studio.png" alt="Google AI Studio" width="40" height="40"/></a>
+<a href="https://gemini.google.com/app" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/gemini.svg" alt="Gemeni" width="40" height="40"/></a>
+<a href="https://colab.research.google.com" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Colab" width="40" height="40"/></a>
+<a href="https://platform.openai.com/docs/models" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/chatgpt.svg" alt="GPT" width="40" height="40"/></a>
+<a href="https://x.ai" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/xai.png" alt="xAI" width="40" height="40"/></a>
+<a href="https://www.google.com/search?client=safari&rls=en&q=Anthropic&ie=UTF-8&oe=UTF-8" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/claude.png" alt="Claude" width="40" height="40"/></a>
 <a href="https://mistral.ai" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/mistral-color.png" alt="Mistral" width="40" height="40"/></a>
 <a href="https://www.llama.com" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/metaai-color.png" alt="LLaMA" width="40" height="40"/></a>
-<a href="https://chat.qwen.ai" rel="noreferrer" target="_blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg" alt="QWEN" width="40" height="40"/></a>
+<a href="https://chat.qwen.ai" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/qwen.png" alt="QWEN" width="40" height="40"/></a>
 <a href="https://huggingface.co" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/dark/huggingface-color.png" alt="Hugging Face" width="40" height="40"/></a>
 <a href="https://ollama.com" rel="noreferrer" target="_blank"><img align="left" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.59.0/files/light/ollama.png" alt="Ollama" width="40" height="40"/></a>
-<a href="https://nova.amazon.com" rel="noreferrer" target="_blank"><img align="left" src="https://m.media-amazon.com/images/I/31mpUpLsu9L._SL512_FMpng_.png" alt="Nova" width="40" height="40"/></a>
+<a href="https://nova.amazon.com" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/nova.png" alt="Nova" width="40" height="40"/></a>
+<a href="https://developer.nvidia.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/nvidia.svg" alt="nvidia" width="40" height="40"/></a>
+<a href="https://telegram.org/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/telegram.svg" alt="telegram" width="40" height="40"/></a>
+<a href="https://slack.com/" rel="noreferrer" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/microsoft-teams" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/teams.svg" alt="teams" width="40" height="40"/></a>
+<a href="https://mail.google.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/gmail.svg" alt="gmail" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/microsoft-365/outlook" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/outlook.svg" alt="outlook" width="40" height="40"/></a>
+<a href="https://calendar.google.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/google-calendar.svg" alt="google-calendar" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/microsoft-365/onedrive" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/onedrive.svg" alt="onedrive" width="40" height="40"/></a>
+<a href="https://www.tradingview.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/tradingview.svg" alt="tradingview" width="40" height="40"/></a>
+<a href="https://www.metatrader5.com/" rel="noreferrer" target="_blank"><img align="left" src="assets/icons/metatrader5.png" alt="metatrader5" width="40" height="40"/></a>
 </div>
 
 <br clear="all" />
